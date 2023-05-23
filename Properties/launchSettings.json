@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OOAD_CASE_STUDY": {
+      "commandName": "Project",
+      "commandLineArgs": "white input.txt output.txt"
+    }
+  }
+}
